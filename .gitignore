@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+Recording.wav
+uv.lock
+models/*.pkl
+data/

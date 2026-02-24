@@ -1,0 +1,12 @@
+{
+  "age": 26,
+  "gender": "male",
+  "smoking": false,
+  "wheezing": false,
+  "mucus": false,
+  "night_cough": false,
+  "frequent_cough": false,
+  "difficulty_breathing": false,
+  "family_asthma": false,
+  "smoke_exposure": false
+}
